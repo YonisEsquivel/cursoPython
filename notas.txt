@@ -55,6 +55,17 @@ Métodos para trabajar con textos
     len(variable): Te indica la longitud de la cadena de texto dentro de la variable en ese momento.
     variable[1: 3: 2]/variable[::]/variable[] (Slice)
 
+Listas (Python necesita más meoria para mantenerlas vivas)
+    variable = []
+    Agregar -> variable.append(1)
+    Borrar -> variable.pop(1)
+
+Tuplas (Son objetos estaticos)
+    mi_tupla = ()
+
+
+
+
 
 
 
