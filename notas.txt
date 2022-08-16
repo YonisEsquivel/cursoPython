@@ -1,0 +1,3 @@
+Operadores Aritmeticos
+
+Ingresar a la consola interactiva > python3
