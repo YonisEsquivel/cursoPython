@@ -19,3 +19,28 @@ Raíz cuadrada
     > import math
     > math.sqrt(81) (9.0)
 
+Datos Primitivos
+    Integer: números enteros
+    Floats: numeros de punto flotante (decimales)
+    Strings: cadena de caracteres
+    Boolean: booleaos (True, False)
+
+Saber el tipo de dato que estoy usando
+    > x=5
+    > type(x) (<class 'int'>)
+
+Convertir Strings a Integer
+    > x=int(x)
+
+Convertir decimal a texto
+    > str(4.5) ('4.5')
+
+Operadores lógicos
+    and
+    or
+    not
+
+
+
+
+
