@@ -1,3 +1,21 @@
 Operadores Aritmeticos
 
 Ingresar a la consola interactiva > python3
+
+División
+    > 21/5 (4.2)
+
+División entera
+    > 21//5 (4)
+
+División modulo (Lo que queda)
+    > 21%5 (1)
+
+Potencia 
+    > 2**5
+
+Raíz cuadrada
+    > 81**0.5 (9.0)
+    > import math
+    > math.sqrt(81) (9.0)
+
