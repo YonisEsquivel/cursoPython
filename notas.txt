@@ -63,6 +63,25 @@ Listas (Python necesita más meoria para mantenerlas vivas)
 Tuplas (Son objetos estaticos)
     mi_tupla = ()
 
+ZEN de Python - The Zen of Python, by Tim Peters
+    ¿Cómo accederlo? 
+        > python3 
+        > import this
+    Bello es mejor que feo
+    Explícito es mejor que implícito
+    Simple es mejor que complejo
+    Complejo es mejor que complicado
+    Plano es mejor que anidado
+    Espaciado es mejor que denso
+    La legibilidad es importante
+    Los casos especiales no son lo suficientemente especiales cpmo para romper las reglas (sin embargo, la practicidad le gana a la pureza)
+    Los errores nunca deberían pasar silenciosamente (a menos que se silencien explícitamente)
+    Frente a la ambiguedad, evitar la tentación de adivinar
+    Debería haber una, y preferiblemente sola, una manera obvia de hacerlo. (A pesar de que esa manera no sea obvia a menos que seas holandés)
+    Ahora es mejor que nunca
+    A pesar de que nunca es muchas veces mejor que ahora mismo
+    Si la implementación es díficil de explicar, es una mala idea, y si es fácil de explicar, es una buena idea
+    Los espacios de nombres son una gran idea, ¡Tengamos más de esos! (namespaces)
 
 
 
