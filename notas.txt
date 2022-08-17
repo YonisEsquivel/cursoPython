@@ -83,6 +83,12 @@ ZEN de Python - The Zen of Python, by Tim Peters
     Si la implementación es díficil de explicar, es una mala idea, y si es fácil de explicar, es una buena idea
     Los espacios de nombres son una gran idea, ¡Tengamos más de esos! (namespaces)
 
+Documentación
+    https://docs.python.org/3/
+    https://www.python.org/dev/peps/pep-0008
+
+
+
 
 
 
