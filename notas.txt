@@ -87,6 +87,27 @@ Documentación
     https://docs.python.org/3/
     https://www.python.org/dev/peps/pep-0008
 
+Creando un entorno virtual
+    > git init 
+    > python3 -m venv venv
+    > source venv/bin/activate (Activar el entorno)
+    > deactivate (Desactivar el entorno)
+    Es importante crear el archivo .gitignore
+
+    Crear alias
+        > vim ~/.bashrc (nano ~/.zshrc)
+        agregar alias avenv='source venv/bin/activate'
+        > source ~/.bashrc (Para que funcione en la misma sesión sin reiniciar)
+
+    > pip freeze (Muestra los módulos instalados)
+    > pip install pandas (Instalar modulos)
+    > pip freeze > requirements.txt (Compartir archivo de dependencias)
+    > pip install -r requirements.txt (Instalar dependencias dentro del archivo .txt)
+
+
+
+
+
 
 
 
